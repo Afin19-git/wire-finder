@@ -1,0 +1,28 @@
+Wire Finder is a utility tool that uses your Android device's built-in magnetic sensor to detect live electrical wiring and cables hidden in walls.
+
+## Features
+
+🧲 Magnetic Sensor Detection - Detects electromagnetic fields from electrical wiring
+📊 Real-time Signal Visualization - View signal strength with interactive charts
+🔊 Audio Feedback - Beeper indicates proximity to detected wires
+🎯 Sensor Calibration - Calibrate readings for accurate detection
+🌍 Multi-language Support - Available in multiple languages
+🎨 Modern Interface - Clean Material Design 3 dark theme
+
+## How to Use
+
+1. Open the app and follow the on-screen instructions
+2. Calibrate the sensor by rotating your device in all directions
+3. Slowly move your device across walls to detect wiring
+4. Watch the signal strength indicator for live wiring detection
+
+## Important
+
+This app provides a basic tool for detecting electromagnetic fields and should not be relied upon as the sole method for electrical safety. Always follow proper safety procedures when working with electrical installations. If unsure, consult a qualified electrician.
+
+## Permissions
+
+- VIBRATE: For haptic feedback
+- HIGH_SAMPLING_RATE_SENSORS: For precise magnetometer access
+
+Wire Finder is free and open-source software licensed under GPLv3.

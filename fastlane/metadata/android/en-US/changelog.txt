@@ -1,0 +1,7 @@
+## Version 1.0.0
+
+Initial release of Wire Finder
+- Magnetic sensor-based wire detection
+- Real-time signal visualization
+- Multi-language support
+- Material Design 3 UI
