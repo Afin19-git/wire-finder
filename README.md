@@ -36,10 +36,6 @@ cd wire-finder
    - Connect an Android device or open an emulator
    - Click **Run** → **Run 'app'** or press `Shift + F10`
 
-### From F-Droid
-
-Wire Finder is available on [F-Droid](https://f-droid.org/) for easy installation.
-
 ## Build from Command Line
 
 ```bash
