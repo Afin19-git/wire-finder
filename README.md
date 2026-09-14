@@ -9,7 +9,7 @@ Wire Finder is an open-source Android application that uses your device's magnet
 - 🔊 **Audio Feedback** - Beeper indicates proximity to detected wires
 - 🎯 **Calibration Support** - Calibrate sensor readings for accurate detection
 - 🌍 **Multi-language Support** - Available in multiple languages
-- 🎨 **Material Design 3** - Modern, intuitive dark theme interface
+- 🎨 **Design** - Modern, intuitive dark theme interface
 
 ## Requirements
 
@@ -75,7 +75,7 @@ wire-finder/
 ## Technology Stack
 
 - **Language**: Kotlin
-- **UI Framework**: Jetpack Compose with Material Design 3
+- **UI Framework**: Jetpack Compose
 - **Architecture**: MVVM with Kotlin Coroutines
 - **Database**: Room (for future data persistence)
 - **Testing**: JUnit, Robolectric, Roborazzi
